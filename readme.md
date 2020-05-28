@@ -2,7 +2,7 @@
 
 ## Requirements
 
-1. Java 8+
+1. JDK Java 8+
 
 ## Getting Started
 
